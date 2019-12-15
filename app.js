@@ -10,4 +10,8 @@ nume = "Adrian";
 console.log(nume);
 console.log(locDeNastere); // acelasi
 
+let ani;
+ani=18;
+console.log (ani);
+
 
