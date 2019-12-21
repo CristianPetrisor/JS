@@ -1,0 +1,10 @@
+Terminal
+
+Navighezi la locatia preferata
+
+cd .. sa iesti din locatia curenta daca este gresita, 
+adica nu este Documents in cazul asta..
+
+cd sa intri intr-un folder dorit, precum Documents
+
+ls pentru a lista folderele

@@ -18,9 +18,13 @@ printeaza(`Bine ai venit, ${nume}!`, ani, locatie);
 
 function mesajDeSalutare() {
     console.log("Salutare dragi utilizatori!");
+
+    // alt mesaj
+    console.log("Salutare dragi prieteni inca odata..");
 }
 
 // o apelam
 mesajDeSalutare();
-
+mesajDeSalutare(); // apelare din nou
+mesajDeSalutare(); // apelare inca odata
 
