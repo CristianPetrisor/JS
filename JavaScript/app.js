@@ -23,8 +23,20 @@ function mesajDeSalutare() {
     console.log("Salutare dragi prieteni inca odata..");
 }
 
-// o apelam
+// o apelamconsole
 mesajDeSalutare();
 mesajDeSalutare(); // apelare din nou
 mesajDeSalutare(); // apelare inca odata
 
+ani = 23;
+let locatie = "California"
+function printeaza (nume, ani, locatie)
+nume = "Petrisor";
+console.log(`${nume}, ${ani}, ${locatie}`);
+}
+printeaza (nume, ani, locatie );
+printeaza (`La Fmailia, ${nume}!`, ani, locatie);
+function mesajDeSalutare(){
+    console.log("Salutare drag prieten")
+
+}

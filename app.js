@@ -1,11 +1,17 @@
+let nume; // declari o variabila
 
+nume = 'y';
+console.log(nume);
 
+nume = "xyz";
+console.log(nume);
 
-let nume ;
-nume = y ;
-nume = x ;
-y = 15
-x = 20
-console.log ("y+"||"x");
+let y = 15;
+let x = 20;
+let rezultat;
+
+rezultat = y + x;
+
+console.log(++rezultat);
  
 
